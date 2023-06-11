@@ -13,7 +13,7 @@
 
 #Getting Started
 ###To run the shopping list application, follow these steps:
-  ###Clone the repository: git clone https://github.com/your-username/shopping-list.git
+  ###Clone the repository: git clone https://github.com/subbuwu/shopping-list.git
   ###Navigate to the project directory: cd shopping-list
   ###Open the index.html file in a web browser.
   
