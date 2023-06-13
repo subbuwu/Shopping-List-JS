@@ -29,10 +29,6 @@ To run the shopping list application, follow these steps:
 - To remove an item, click on the delete button (minus icon) next to the item.
 - Use the filter input field to enter a search term and filter the list accordingly.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
 ## Acknowledgements
 
 - [Font Awesome](https://fontawesome.com/) for the icons used in the project.
